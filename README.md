@@ -26,10 +26,9 @@
 
 ## 📷 Screenshots
 
-*(Add your screenshots here using Markdown)*  
 ```md
-![Prompt Example](./screenshots/two.jpg)
-![Generated Image](./screenshots/one.jpg)
+![Prompt Example](https://raw.githubusercontent.com/amirhossein-jahangiri/Ai-Image-Generator/main/screenshots/one.jpg)
+![Generated Image](https://raw.githubusercontent.com/amirhossein-jahangiri/Ai-Image-Generator/main/screenshots/one.jpg)
 ```
 
 ---
