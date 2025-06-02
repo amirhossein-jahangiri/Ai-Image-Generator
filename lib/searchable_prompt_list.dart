@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 
-import 'constants.dart';
+import 'utils/constants.dart';
 import 'custom_textfield.dart';
-import 'screen_size.dart';
+import 'utils/size_config.dart';
 
 class SearchablePromptList extends StatefulWidget {
   const SearchablePromptList({super.key});

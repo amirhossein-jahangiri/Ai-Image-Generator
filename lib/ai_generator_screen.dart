@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import '/screen_size.dart';
+import 'utils/size_config.dart';
 import 'custom_textfield.dart';
 import 'searchable_prompt_list.dart';
 

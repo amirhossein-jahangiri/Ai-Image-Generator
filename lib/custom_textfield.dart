@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screen_size.dart';
+import 'utils/size_config.dart';
 
 class CustomTextField extends StatelessWidget {
   const CustomTextField({

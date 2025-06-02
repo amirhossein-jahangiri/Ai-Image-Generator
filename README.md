@@ -29,7 +29,7 @@
 *(Add your screenshots here using Markdown)*  
 ```md
 ![Prompt Example](./screenshots/two.jpg)
-![Generated Image](./screenshots/one.jpg)
+![Generated Image](/screenshots/one.png)
 ```
 
 ---

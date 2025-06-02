@@ -1,3 +1,16 @@
+class AppConstants {
+  static const String APP_TITLE = 'ابزار هوش مصنوعی';
+
+  /// home screen const
+  static const String SPEECH_TO_TEXT = 'گفتگو به متن';
+  static const String TEXT_TO_SPEECH = 'متن به گفتگو';
+  static const String IMAGE_GENERATOR = 'تولید عکس';
+  static const String CHAT_BOT = 'ربات چت';
+  static const String PREVIOUS_REQUESTS = 'درخواست های قبلی';
+  static const String SUGGESTS = 'پیشنهادها';
+}
+
+
 /// List of AI Prompts
 final List<String> aiPrompts = [
   // 🏞️ Nature Prompts
